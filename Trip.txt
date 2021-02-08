@@ -1,0 +1,36 @@
+Truck driver is: Elton John
+Truck petrol is: 34.7619
+Truck money is: 174.32
+Truck empty mileage is: 9
+Truck full mileage is: 7
+
+Truck driver is: John Cena
+Truck petrol is: 34.5455
+Truck money is: 288.35
+Truck empty mileage is: 11
+Truck full mileage is: 6
+
+Truck driver is: Barrack Obama
+Truck petrol is: 37.3333
+Truck money is: 786.26
+Truck empty mileage is: 10
+Truck full mileage is: 9
+
+Truck driver is: John Rambo
+Truck petrol is: 28
+Truck money is: 403.59
+Truck empty mileage is: 6
+Truck full mileage is: 5
+
+Truck driver is: Hillary Clinton
+Truck petrol is: 35.974
+Truck money is: 1866.23
+Truck empty mileage is: 11
+Truck full mileage is: 7
+
+Truck driver is: Donald Trump
+Truck petrol is: 39.5455
+Truck money is: 897.27
+Truck empty mileage is: 12
+Truck full mileage is: 11
+

@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1538636951 source:g:\habib\semester 3\oop\assignments\assignment03\assignment 3\box.cpp
+	"Box.h"
+	<iostream>
+
+1538564578 g:\habib\semester 3\oop\assignments\assignment03\assignment 3\box.h
+
+1538636778 source:g:\habib\semester 3\oop\assignments\assignment03\assignment 3\main.cpp
+	<iostream>
+	<stdio.h>
+	<fstream>
+	<time.h>
+	<stdlib.h>
+	"Truck.h"
+	"Box.h"
+
+1538636760 g:\habib\semester 3\oop\assignments\assignment03\assignment 3\truck.h
+	"Box.h"
+
+1538644199 source:g:\habib\semester 3\oop\assignments\assignment03\assignment 3\truck.cpp
+	"Truck.h"
+	<iostream>
+
+1538724045 source:g:\habib\semester 3\oop\assignments\assignment03\assignment 3(copy)\box.cpp
+	"Box.h"
+	<iostream>
+
+1538658420 g:\habib\semester 3\oop\assignments\assignment03\assignment 3(copy)\box.h
+
+1538726134 source:g:\habib\semester 3\oop\assignments\assignment03\assignment 3(copy)\main.cpp
+	<iostream>
+	<stdio.h>
+	<fstream>
+	<time.h>
+	<stdlib.h>
+	"Truck.h"
+	"Box.h"
+
+1538725528 g:\habib\semester 3\oop\assignments\assignment03\assignment 3(copy)\truck.h
+	"Box.h"
+
+1538725216 source:g:\habib\semester 3\oop\assignments\assignment03\assignment 3(copy)\truck.cpp
+	"Truck.h"
+	<iostream>
+
